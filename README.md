@@ -17,12 +17,10 @@ The studies show that customer and product focus holds where it is built into th
    - Commitments change only in public, with the reason.
    - Transparency serves checkability, not itself. Publishing everything can harm people.
 
-2. **Community-driven product development.** *(under review)*
+2. **Closeness to users.** *(decided 2026-11-23)*
 
-   - Product development is open to public scrutiny and input, ensuring that products are tailored to meet customer needs effectively.
-   - Customers' insights and feedback drive continuous improvement, resulting in products that are high-quality and well-suited to market demands.
-   - Community involvement fosters innovation and provides diverse perspectives, enhancing the product's relevance and appeal.
-   - *Under review:* whether community input is required, or one of several ways to stay close to users.
+   - The company stays close to the people who use its products. How it does so is up to the company.
+   - User input has a defined path to decisions, and the reasons for those decisions are public.
 
 3. **Fair pricing: publish the price rule and prove it is kept.** *(decided 2026-11-23)*
 
@@ -52,7 +50,7 @@ The studies point to three areas the original draft did not cover. Each is being
 
 ## Conclusion
 
-This framework describes how to build and keep a company with a real customer and product focus. Openness, community involvement and published price rules are tools for that goal. They are kept where the evidence shows they work, and changed where it shows they don't.
+This framework describes how to build and keep a company with a real customer and product focus. Openness, community input and published price rules are tools for that goal. They are kept where the evidence shows they work, and changed where it shows they don't.
 
 ---
 
@@ -77,6 +75,7 @@ Understanding and effectively managing relationships with these stakeholders is 
 
 - **2026-11-23 — Goal widened.** The core goal is now a business with a real customer and product focus that keeps it over time. Openness and community involvement are means, not the goal. Ownership, employees and suppliers, and long-term horizon and growth were added as candidate principles. The name will be revisited once the principles are settled.
 - **2026-11-23 — Transparency is a means.** Principle 1 was rewritten. First-order information (safety, commitments and results, audit outcomes, ownership and governance) is always public. Second-order information (costs, suppliers, pay, detailed financials) is public or proven fair by an independent route. Rejected: hiding safety-relevant information, and values that can be retired without a public record.
+- **2026-11-23 — Closeness to users.** Principle 2 was rewritten from "community-driven product development". Community input is one way to stay close to users, not a requirement: some of the most customer-focused companies studied develop products internally. Required instead: a defined path from user input to decisions, with public reasons.
 - **2026-11-23 — Principles, not methods.** The framework states what a company commits to; how it does so stays out unless the method itself is key. Examples and method lists were removed from principles 1 to 4, and the implementation strategies section was dropped. The reasoning and examples behind each decision are kept in the research archive.
 - **2026-11-23 — Fair pricing through a rule.** Principle 3 was rewritten. Instead of disclosing all costs, the company publishes a price rule set in advance and proves it is kept, by its own figures or an independent audit. Reason: cost breakdowns faded as companies grew or didn't stop price rises; fairness held where a rule constrained prices. Customer guarantees (refunds, no charge for unused service) are still being worked out.
 - **2026-11-23 — Implementations list removed.** sited.io no longer exists.
