@@ -15,7 +15,7 @@ Area codes, fit values and how this file feeds decisions: see `../README.md`.
 
 Patagonia **adds** the piece the framework most clearly lacks: a structure that locks the mission in after the founder. Voting control sits in a purpose trust and economic rights in a nonprofit, on top of a benefit-corporation charter. It also adds the strongest evidence so far for the environmental topic: 1 % of sales given for decades, product decisions driven by impact, repair over replacement, and impact reports that admit failures.
 
-It **matches none** of the framework's 4 principles outright. There's no community-driven development and no open project management, and it **differs** from principle 3: it publishes no finances, costs or price breakdowns. Patagonia is a mission company that is open about its effects, not an open company. That distinction matters for Max's framework: being open and being good overlap, but they aren't the same thing.
+It **matches none** of the framework's 4 principles outright. There's no community-driven development and no open project management, and it **differs** from principle 3: it publishes no finances, costs or price breakdowns. Patagonia is a mission company that is open about its effects, not an open company. That distinction matters for the framework: being open and being good overlap, but they aren't the same thing.
 
 ## 2. Overview
 
