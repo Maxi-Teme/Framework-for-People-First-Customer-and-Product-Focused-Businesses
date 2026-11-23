@@ -42,11 +42,15 @@ The studies show that customer and product focus holds where it is built into th
    - Product and people are funded first. Money goes to owners only after that, and the split is public.
    - Where the product allows, it is built and supported to last. Customers aren't pushed to replace it.
 
-### Candidate principle (in development)
+6. **People.** *(decided 2026-11-23)*
 
-The studies point to one more area the original draft did not cover:
+   A company is the sum of its people. If the people working towards its goal are well, the company is healthy.
 
-- **Employees and suppliers.** How people are paid, developed and heard, and how suppliers are treated. Fair pay and a real voice for employees, and fair, long-term supplier terms.
+   - Everyone working for the company earns at least a living wage. Pay is part of the business model; where it depends on results, the floor still holds.
+   - The gap between the highest and the lowest pay is public.
+   - Employees can speak up without retaliation, and the company recognises any representation they choose.
+   - No involuntary layoffs.
+   - Suppliers get fair, long-term terms. A living wage for workers in the supply chain is a public goal, with progress reported.
 
 ## Benefits
 
@@ -81,6 +85,7 @@ Understanding and effectively managing relationships with these stakeholders is 
 
 Newest first.
 
+- **2026-11-23 — People.** The last candidate, employees and suppliers, became principle 6. Where customer and product focus held, good pay and development were part of the business model; benefits without a recognised voice didn't prevent conflict, internal pay caps were dropped, and squeezing suppliers came back on the product. All six principles are now decided.
 - **2026-11-23 — Long-term horizon.** The candidate "long-term horizon and growth" became principle 5. In the studies, customer and product focus was lost mainly through growth that outran quality and people, and through money paid out while the product was underfunded. Companies that kept focus limited growth or protected reinvestment. Durable products were added as product focus over time, where the product allows.
 - **2026-11-23 — Principles that survive a change of control.** The candidate "ownership and capital" became principle 4. In the studies, principles held only by a founder, a culture or a contract with a buyer were dropped when control changed; those anchored in ownership or the legal form held. Protection also needs an independent party able to enforce it, and capital whose terms don't push against it.
 - **2026-11-23 — Open project management dropped.** Principle 4 (public task boards and roadmaps) was removed. Principle 2 already requires a defined path from user input to decisions with public reasons; public roadmaps are a method a company may choose, not a requirement. Several of the most customer-focused companies studied publish none.
