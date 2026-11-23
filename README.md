@@ -1,6 +1,6 @@
 # Framework for People-First, Customer- and Product-Focused Businesses
 
-This framework is based on comparative studies of 15 companies: Toyota, Buffer, GitLab, Framework Computer, LEGO, Costco, Starbucks, Boeing, Southwest Airlines, Everlane, Nike, Patagonia, Haier, Ben & Jerry's and Fairphone. Changes are recorded in [CHANGELOG.md](CHANGELOG.md).
+This framework is based on comparative studies of 15 companies: Toyota, Buffer, GitLab, Framework Computer, LEGO, Costco, Starbucks, Boeing, Southwest Airlines, Everlane, Nike, Patagonia, Haier, Ben & Jerry's and Fairphone. The comparisons and the decision log behind each principle are in [research/](research/README.md). Changes are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## Goal
 
