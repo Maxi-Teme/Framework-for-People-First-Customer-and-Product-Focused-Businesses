@@ -29,11 +29,16 @@ The studies show that customer and product focus holds where it is built into th
    - A full cost breakdown is not required.
    - The rule is a commitment under principle 1: it changes only in public, with the reason.
 
+4. **Principles that survive a change of control.** *(decided 2026-11-23)*
+
+   - The principles are anchored in the company's ownership or legal form, not only in a founder, a culture or a contract. A new owner, investor, board or CEO cannot drop them.
+   - Someone independent of the owners can enforce them and has the means to do so.
+   - The company takes no capital whose terms require growth or an exit that would override the principles.
+
 ### Candidate principles (in development)
 
-The studies point to three areas the original draft did not cover. Each is being developed into a principle:
+The studies point to two more areas the original draft did not cover. Each is being developed into a principle:
 
-- **Ownership and capital.** How the principles are protected when owners or investors want something else. Principles held only by a founder, a company culture or a contract with the buyer were reversed when ownership or control changed. Principles anchored in ownership, statutes or binding public commitments held.
 - **Employees and suppliers.** How people are paid, developed and heard, and how suppliers are treated. Fair pay and a real voice for employees, and fair, long-term supplier terms.
 - **Long-term horizon and growth.** Decisions take the long view even at short-term cost, and growth is limited by the company's ability to keep quality and develop its people.
 
@@ -70,6 +75,7 @@ Understanding and effectively managing relationships with these stakeholders is 
 
 - **2026-11-23 — Goal widened.** The core goal is now a business with a real customer and product focus that keeps it over time. Openness and community involvement are means, not the goal. Ownership, employees and suppliers, and long-term horizon and growth were added as candidate principles. The name will be revisited once the principles are settled.
 - **2026-11-23 — Transparency is a means.** Principle 1 was rewritten. First-order information (safety, commitments and results, audit outcomes, ownership and governance) is always public. Second-order information (costs, suppliers, pay, detailed financials) is public or proven fair by an independent route. Rejected: hiding safety-relevant information, and values that can be retired without a public record.
+- **2026-11-23 — Principles that survive a change of control.** The candidate "ownership and capital" became principle 4. In the studies, principles held only by a founder, a culture or a contract with a buyer were dropped when control changed; those anchored in ownership or the legal form held. Protection also needs an independent party able to enforce it, and capital whose terms don't push against it.
 - **2026-11-23 — Open project management dropped.** Principle 4 (public task boards and roadmaps) was removed. Principle 2 already requires a defined path from user input to decisions with public reasons; public roadmaps are a method a company may choose, not a requirement. Several of the most customer-focused companies studied publish none.
 - **2026-11-23 — Closeness to users.** Principle 2 was rewritten from "community-driven product development". Community input is one way to stay close to users, not a requirement: some of the most customer-focused companies studied develop products internally. Required instead: a defined path from user input to decisions, with public reasons.
 - **2026-11-23 — Principles, not methods.** The framework states what a company commits to; how it does so stays out unless the method itself is key. Examples and method lists were removed from principles 1 to 4, and the implementation strategies section was dropped. The reasoning and examples behind each decision are kept in the research archive.
