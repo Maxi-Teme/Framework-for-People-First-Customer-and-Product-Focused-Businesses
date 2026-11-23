@@ -10,12 +10,17 @@ The studies show that customer and product focus holds where it is built into th
 
 ## Core Principles
 
-1. **Transparency and accountability: every commitment is public and checkable.** *(decided 2026-11-23)*
+The principles run from the company's people outwards to its users, prices and horizon. The last two apply to all the others: every commitment is public and checkable, and the principles survive a change of control.
 
-   - **Always public:** safety-relevant information; the company's commitments and their results, including misses; the outcomes of checks on those commitments; ownership and governance.
-   - **Everything else** (costs, suppliers, pay, financials) is public, or its fairness is proven independently.
-   - Commitments change only in public, with the reason.
-   - Transparency serves checkability, not itself. Publishing everything can harm people.
+1. **People.** *(decided 2026-11-23)*
+
+   A company is the sum of its people. If the people working towards its goal are well, the company is healthy.
+
+   - Everyone working for the company earns at least a living wage. Pay is part of the business model; where it depends on results, the floor still holds.
+   - The gap between the highest and the lowest pay is public.
+   - Employees can speak up without retaliation, and the company recognises any representation they choose.
+   - No involuntary layoffs.
+   - Suppliers get fair, long-term terms. A living wage for workers in the supply chain is a public goal, with progress reported.
 
 2. **Closeness to users.** *(decided 2026-11-23)*
 
@@ -27,36 +32,34 @@ The studies show that customer and product focus holds where it is built into th
    - Prices follow a rule set in advance and made public.
    - The company proves the rule is kept, with its own figures or an independent check.
    - A full cost breakdown is not required.
-   - The rule is a commitment under principle 1: it changes only in public, with the reason.
+   - The rule is a commitment under principle 5: it changes only in public, with the reason.
 
-4. **Principles that survive a change of control.** *(decided 2026-11-23)*
-
-   - The principles are anchored in the company's ownership or legal form, not only in a founder, a culture or a contract. A new owner, investor, board or CEO cannot drop them.
-   - Someone independent of the owners can enforce them and has the means to do so.
-   - The company takes no capital whose terms require growth or an exit that would override the principles.
-
-5. **Long-term horizon.** *(decided 2026-11-23)*
+4. **Long-term horizon.** *(decided 2026-11-23)*
 
    - Decisions take the long view, even at short-term cost.
    - Growth is limited by the company's ability to keep product quality and develop its people, including at subsidiaries and suppliers.
    - Product and people are funded first. Money goes to owners only after that, and the split is public.
    - Where the product allows, it is built and supported to last. Customers aren't pushed to replace it.
 
-6. **People.** *(decided 2026-11-23)*
+5. **Transparency and accountability: every commitment is public and checkable.** *(decided 2026-11-23)*
 
-   A company is the sum of its people. If the people working towards its goal are well, the company is healthy.
+   - **Always public:** safety-relevant information; the company's commitments and their results, including misses; the outcomes of checks on those commitments; ownership and governance.
+   - **Everything else** (costs, suppliers, pay, financials) is public, or its fairness is proven independently.
+   - Commitments change only in public, with the reason.
+   - Transparency serves checkability, not itself. Publishing everything can harm people.
 
-   - Everyone working for the company earns at least a living wage. Pay is part of the business model; where it depends on results, the floor still holds.
-   - The gap between the highest and the lowest pay is public.
-   - Employees can speak up without retaliation, and the company recognises any representation they choose.
-   - No involuntary layoffs.
-   - Suppliers get fair, long-term terms. A living wage for workers in the supply chain is a public goal, with progress reported.
+6. **Principles that survive a change of control.** *(decided 2026-11-23)*
+
+   - The principles are anchored in the company's ownership or legal form, not only in a founder, a culture or a contract. A new owner, investor, board or CEO cannot drop them.
+   - Someone independent of the owners can enforce them and has the means to do so.
+   - The company takes no capital whose terms require growth or an exit that would override the principles.
 
 ## Benefits
 
-1. **Trust that can be checked:** customers and other stakeholders can verify that commitments are kept instead of having to take them on faith.
+1. **A healthy company:** people who are paid fairly, heard and kept stay, and do good work.
 2. **Products that stay close to users:** the company stays tied to the people who use its products.
-3. **Resilience:** principles anchored in ownership and public commitments are harder to drop under pressure from growth, investors or a change of leadership.
+3. **Trust that can be checked:** customers and other stakeholders can verify that commitments are kept instead of having to take them on faith.
+4. **Resilience:** principles anchored in ownership and public commitments are harder to drop under pressure from growth, investors or a change of leadership.
 
 ## Conclusion
 
@@ -83,8 +86,9 @@ Understanding and effectively managing relationships with these stakeholders is 
 
 ## Revision log
 
-Newest first.
+Newest first. Principle numbers in older entries refer to the order at the time.
 
+- **2026-11-23 — New order.** People first, as the base of the company; then closeness to users, fair pricing and long-term horizon; then the two principles that apply to all the others: transparency and accountability, and principles that survive a change of control.
 - **2026-11-23 — People.** The last candidate, employees and suppliers, became principle 6. Where customer and product focus held, good pay and development were part of the business model; benefits without a recognised voice didn't prevent conflict, internal pay caps were dropped, and squeezing suppliers came back on the product. All six principles are now decided.
 - **2026-11-23 — Long-term horizon.** The candidate "long-term horizon and growth" became principle 5. In the studies, customer and product focus was lost mainly through growth that outran quality and people, and through money paid out while the product was underfunded. Companies that kept focus limited growth or protected reinvestment. Durable products were added as product focus over time, where the product allows.
 - **2026-11-23 — Principles that survive a change of control.** The candidate "ownership and capital" became principle 4. In the studies, principles held only by a founder, a culture or a contract with a buyer were dropped when control changed; those anchored in ownership or the legal form held. Protection also needs an independent party able to enforce it, and capital whose terms don't push against it.
