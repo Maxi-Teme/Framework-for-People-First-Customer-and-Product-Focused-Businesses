@@ -1,6 +1,6 @@
-# Framework for Open and Community-Driven Business Operations and Product Development
+# Framework for People-First, Customer- and Product-Focused Businesses
 
-> **Status: work in progress (revised 2026-11-23).** This framework is being reworked on the basis of comparative studies of 15 companies, including Toyota, Buffer, GitLab, Framework Computer, LEGO, Costco, Starbucks, Boeing, Southwest Airlines, Everlane, Nike, Patagonia, Haier, Ben & Jerry's and Fairphone. Every principle is treated as a hypothesis and changes when the evidence says it doesn't serve the goal. Decisions so far are listed under [Revision log](#revision-log). The name will be revisited once the principles are settled.
+This framework is based on comparative studies of 15 companies: Toyota, Buffer, GitLab, Framework Computer, LEGO, Costco, Starbucks, Boeing, Southwest Airlines, Everlane, Nike, Patagonia, Haier, Ben & Jerry's and Fairphone. Changes are recorded in [CHANGELOG.md](CHANGELOG.md).
 
 ## Goal
 
@@ -12,7 +12,7 @@ The studies show that customer and product focus holds where it is built into th
 
 The principles run from the company's people outwards to its users, prices and horizon. The last two apply to all the others: every commitment is public and checkable, and the principles survive a change of control.
 
-1. **People.** *(decided 2026-11-23)*
+1. **People.**
 
    A company is the sum of its people. If the people working towards its goal are well, the company is healthy.
 
@@ -22,33 +22,33 @@ The principles run from the company's people outwards to its users, prices and h
    - No involuntary layoffs.
    - Suppliers get fair, long-term terms. A living wage for workers in the supply chain is a public goal, with progress reported.
 
-2. **Closeness to users.** *(decided 2026-11-23)*
+2. **Closeness to users.**
 
    - The company stays close to the people who use its products. How it does so is up to the company.
    - User input has a defined path to decisions, and the reasons for those decisions are public.
 
-3. **Fair pricing: publish the price rule and prove it is kept.** *(decided 2026-11-23)*
+3. **Fair pricing: publish the price rule and prove it is kept.**
 
    - Prices follow a rule set in advance and made public.
    - The company proves the rule is kept, with its own figures or an independent check.
    - A full cost breakdown is not required.
    - The rule is a commitment under principle 5: it changes only in public, with the reason.
 
-4. **Long-term horizon.** *(decided 2026-11-23)*
+4. **Long-term horizon.**
 
    - Decisions take the long view, even at short-term cost.
    - Growth is limited by the company's ability to keep product quality and develop its people, including at subsidiaries and suppliers.
    - Product and people are funded first. Money goes to owners only after that, and the split is public.
    - Where the product allows, it is built and supported to last. Customers aren't pushed to replace it.
 
-5. **Transparency and accountability: every commitment is public and checkable.** *(decided 2026-11-23)*
+5. **Transparency and accountability: every commitment is public and checkable.**
 
    - **Always public:** safety-relevant information; the company's commitments and their results, including misses; the outcomes of checks on those commitments; ownership and governance.
    - **Everything else** (costs, suppliers, pay, financials) is public, or its fairness is proven independently.
    - Commitments change only in public, with the reason.
    - Transparency serves checkability, not itself. Publishing everything can harm people.
 
-6. **Principles that survive a change of control.** *(decided 2026-11-23)*
+6. **Principles that survive a change of control.**
 
    - The principles are anchored in the company's ownership or legal form, not only in a founder, a culture or a contract. A new owner, investor, board or CEO cannot drop them.
    - Someone independent of the owners can enforce them and has the means to do so.
@@ -82,21 +82,3 @@ In the context of this framework document, **stakeholders** refer to individuals
 
 Understanding and effectively managing relationships with these stakeholders is crucial for maintaining trust and ensuring the long-term sustainability and success of the business or project.
 
----
-
-## Revision log
-
-Newest first. Principle numbers in older entries refer to the order at the time.
-
-- **2026-11-23 — New order.** People first, as the base of the company; then closeness to users, fair pricing and long-term horizon; then the two principles that apply to all the others: transparency and accountability, and principles that survive a change of control.
-- **2026-11-23 — People.** The last candidate, employees and suppliers, became principle 6. Where customer and product focus held, good pay and development were part of the business model; benefits without a recognised voice didn't prevent conflict, internal pay caps were dropped, and squeezing suppliers came back on the product. All six principles are now decided.
-- **2026-11-23 — Long-term horizon.** The candidate "long-term horizon and growth" became principle 5. In the studies, customer and product focus was lost mainly through growth that outran quality and people, and through money paid out while the product was underfunded. Companies that kept focus limited growth or protected reinvestment. Durable products were added as product focus over time, where the product allows.
-- **2026-11-23 — Principles that survive a change of control.** The candidate "ownership and capital" became principle 4. In the studies, principles held only by a founder, a culture or a contract with a buyer were dropped when control changed; those anchored in ownership or the legal form held. Protection also needs an independent party able to enforce it, and capital whose terms don't push against it.
-- **2026-11-23 — Open project management dropped.** Principle 4 (public task boards and roadmaps) was removed. Principle 2 already requires a defined path from user input to decisions with public reasons; public roadmaps are a method a company may choose, not a requirement. Several of the most customer-focused companies studied publish none.
-- **2026-11-23 — Closeness to users.** Principle 2 was rewritten from "community-driven product development". Community input is one way to stay close to users, not a requirement: some of the most customer-focused companies studied develop products internally. Required instead: a defined path from user input to decisions, with public reasons.
-- **2026-11-23 — Principles, not methods.** The framework states what a company commits to; how it does so stays out unless the method itself is key. Examples and method lists were removed from principles 1 to 4, and the implementation strategies section was dropped. The reasoning and examples behind each decision are kept in the research archive.
-- **2026-11-23 — Fair pricing through a rule.** Principle 3 was rewritten. Instead of disclosing all costs, the company publishes a price rule set in advance and proves it is kept, by its own figures or an independent audit. Reason: cost breakdowns faded as companies grew or didn't stop price rises; fairness held where a rule constrained prices. Customer guarantees (refunds, no charge for unused service) are still being worked out.
-- **2026-11-23 — Transparency is a means.** Principle 1 was rewritten. First-order information (safety, commitments and results, audit outcomes, ownership and governance) is always public. Second-order information (costs, suppliers, pay, detailed financials) is public or proven fair by an independent route. Rejected: hiding safety-relevant information, and values that can be retired without a public record.
-- **2026-11-23 — Goal widened.** The core goal is now a business with a real customer and product focus that keeps it over time. Openness and community involvement are means, not the goal. Ownership, employees and suppliers, and long-term horizon and growth were added as candidate principles. The name will be revisited once the principles are settled.
-- **2026-11-23 — Implementations list removed.** sited.io no longer exists.
-- **Earlier** — original draft: four principles (transparency, community-driven product development, fair and transparent pricing through cost disclosure, open project management).
