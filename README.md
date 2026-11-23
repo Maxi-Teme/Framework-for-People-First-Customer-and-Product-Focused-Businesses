@@ -29,11 +29,6 @@ The studies show that customer and product focus holds where it is built into th
    - A full cost breakdown is not required.
    - The rule is a commitment under principle 1: it changes only in public, with the reason.
 
-4. **Open project management.** *(under review)*
-   - Project management elements, including task boards and roadmaps, should be open to the public and open for discussion.
-   - Open project management allows stakeholders to follow the project's progress, contribute ideas, and provide feedback on priorities and timelines.
-   - *Under review:* whether full task boards and roadmaps are needed.
-
 ### Candidate principles (in development)
 
 The studies point to three areas the original draft did not cover. Each is being developed into a principle:
@@ -75,6 +70,7 @@ Understanding and effectively managing relationships with these stakeholders is 
 
 - **2026-11-23 — Goal widened.** The core goal is now a business with a real customer and product focus that keeps it over time. Openness and community involvement are means, not the goal. Ownership, employees and suppliers, and long-term horizon and growth were added as candidate principles. The name will be revisited once the principles are settled.
 - **2026-11-23 — Transparency is a means.** Principle 1 was rewritten. First-order information (safety, commitments and results, audit outcomes, ownership and governance) is always public. Second-order information (costs, suppliers, pay, detailed financials) is public or proven fair by an independent route. Rejected: hiding safety-relevant information, and values that can be retired without a public record.
+- **2026-11-23 — Open project management dropped.** Principle 4 (public task boards and roadmaps) was removed. Principle 2 already requires a defined path from user input to decisions with public reasons; public roadmaps are a method a company may choose, not a requirement. Several of the most customer-focused companies studied publish none.
 - **2026-11-23 — Closeness to users.** Principle 2 was rewritten from "community-driven product development". Community input is one way to stay close to users, not a requirement: some of the most customer-focused companies studied develop products internally. Required instead: a defined path from user input to decisions, with public reasons.
 - **2026-11-23 — Principles, not methods.** The framework states what a company commits to; how it does so stays out unless the method itself is key. Examples and method lists were removed from principles 1 to 4, and the implementation strategies section was dropped. The reasoning and examples behind each decision are kept in the research archive.
 - **2026-11-23 — Fair pricing through a rule.** Principle 3 was rewritten. Instead of disclosing all costs, the company publishes a price rule set in advance and proves it is kept, by its own figures or an independent audit. Reason: cost breakdowns faded as companies grew or didn't stop price rises; fairness held where a rule constrained prices. Customer guarantees (refunds, no charge for unused service) are still being worked out.
