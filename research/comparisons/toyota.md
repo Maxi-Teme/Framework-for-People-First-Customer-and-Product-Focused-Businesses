@@ -117,7 +117,7 @@ Count: 1 match, 5 partial, 8 gap, 5 differs (TOY-18 and TOY-19 added 2026-11-23)
 
 ### TOY-11: Long-term supplier partnerships
 
-- **What Toyota does:** Suppliers are partners over decades. After the 1997 Aisin fire, suppliers improvised production and Toyota lost only about 5 days; Toyota and Aisin reimbursed the helpers and paid a bonus. [2]
+- **What Toyota does:** Suppliers are partners over decades. After the 1997 fire at the Aisin plant that made the brake proportioning valves for nearly all Toyota vehicles, more than 200 firms improvised production and the first substitute valves came three days later; Aisin paid the direct costs and Toyota paid its first-tier suppliers 1 % of their January–March sales (over ¥15B). [2, 2a] (corrected 2026-11-24)
 - **Why it works:** Trust pays back in a crisis; suppliers share improvements.
 - **Fit:** gap. Suppliers appear only in the glossary.
 - **Transfer:** A principle on fair, long-term supplier relationships; could connect to transparent pricing (fair terms behind the published costs).
@@ -216,6 +216,7 @@ Source list from the underlying company study. Numbering matches the brackets ab
 |---|---|---|---|---|---|
 | 1 | Toyota | Prepared testimony of Akio Toyoda before the US House Committee on Oversight and Government Reform | 2010-02-24 | primary | https://global.toyota/detail/2364044 |
 | 2 | Wikipedia (citing Nishiguchi and Beaudet, *MIT Sloan Management Review*, Fall 1998, and *The Wall Street Journal*, 1997-05-08) | 1997 Aisin fire | accessed 2026-10-12 | reference | https://en.wikipedia.org/wiki/1997_Aisin_fire |
+| 2a | Toshihiro Nishiguchi, Alexandre Beaudet (MIT IMVP working paper) | Self-organization and clustered control in the Toyota group: lessons from the Aisin fire | 1998 | academic | https://dspace.mit.edu/handle/1721.1/1457 |
 | 3 | Steve Portigal | Genchi genbutsu – that's Toyota for "user research" | | blog | https://portigal.com/genchi-genbutsu-thats-toyota-for-user-research/ |
 | 4 | Lean Enterprise Institute | Lexicon: Target Cost | | reference | https://www.lean.org/lexicon-terms/target-cost/ |
 | 5 | Gray | The Toyota Way 2001 house: lean for the 21st century | | industry article | https://www.gray.com/insights/the-toyota-way-2001-house-lean-for-the-21st-century |
