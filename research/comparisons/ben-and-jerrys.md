@@ -3,10 +3,10 @@
 | Field | Value |
 |---|---|
 | Study ID | CS-014 |
-| Practice IDs | BNJ-01 to BNJ-14 |
+| Practice IDs | BNJ-01 to BNJ-16 |
 | Framework version compared | snapshot of 2026-10-12 (see `../decisions.md`) |
 | Written | 2026-11-23 |
-| Last updated | 2026-11-23 |
+| Last updated | 2026-11-24 |
 | Sources | listed under *Sources* at the end of this file (source numbers in brackets) |
 
 Area codes, fit values and how this file feeds decisions: see `../README.md`.
@@ -24,7 +24,7 @@ Its main lesson is **cautionary**, for FD-01. The 2000 sale contract created an 
 - changed the eligibility rules and removed most of that board;
 - replaced the CEO;
 - stopped funding the Foundation;
-- obtained a court ruling that the board could sue only over its own composition.
+- obtained a court ruling that the board could sue only over its own composition and a later settlement agreement.
 
 A contract with the owner protects principles only while the owner chooses to honour it.
 
@@ -40,14 +40,16 @@ A contract with the owner protects principles only while the owner chooses to ho
 | BNJ-06 | Social and environmental reports since the late 1980s, including a published auditor's disclaimer | TR, EN | match | FD-03, FD-06 |
 | BNJ-07 | Values-led sourcing (Caring Dairy, Milk with Dignity, Fairtrade, open-hiring bakery) | SU, EN | gap | FD-02, FD-08 |
 | BNJ-08 | Mission protected by the sale contract: independent, self-perpetuating board | OW | gap | FD-01 |
-| BNJ-09 | Contract largely unenforceable: board may sue only over board composition; foundation can't sue | OW | gap | FD-01 |
+| BNJ-09 | Contract largely unenforceable: board may sue only over board composition (and a later settlement); foundation can't sue | OW | gap | FD-01 |
 | BNJ-10 | Parent remakes the board (eligibility rules, removals), replaces the CEO; censorship alleged | OW, TR | differs | FD-01 |
 | BNJ-11 | Foundation funding withheld; foundation to suspend operations | OW, EN | differs | FD-01 |
 | BNJ-12 | Limited customer input in flavours (contests, graveyard votes) | PD | partial | FD-05 |
 | BNJ-13 | No pricing transparency | PR | differs | FD-04 |
 | BNJ-14 | Founders explore an employee-ownership carve-out | OW | gap | FD-01 |
+| BNJ-15 | Before the sale: founders' high-vote shares and a foundation-held share class with a veto over any takeover | OW | gap | FD-01 |
+| BNJ-16 | Terms won in a settlement signed by the mission board (payments, fair-trade sourcing) stay enforceable where the sale contract's board rights did not | OW, SU | gap | FD-01 |
 
-Count: 1 match, 2 partial, 8 gap, 3 differs.
+Count: 1 match, 2 partial, 10 gap, 3 differs.
 
 ## 3. Practices in detail
 
@@ -95,20 +97,22 @@ Count: 1 match, 2 partial, 8 gap, 3 differs.
 
 ### BNJ-08: Mission protected by contract
 
-- **What the company does:** section 6.14 of the 2000 merger agreement created an independent board responsible for "preserving and enhancing the objectives of the historical social mission". Its members could be removed only by the board itself [5, 7].
+- **What the company does:** section 6.14 of the 2000 merger agreement created an independent board responsible for "preserving and enhancing the objectives of the historical social mission". Of its eleven seats, seven designate their own successors and can be removed only at the request of a majority of their class; the buyer keeps "primary responsibility for the financial and operational aspects", and every director must agree to abide by the buyer's code of business conduct (s. 6.14(j)) [1, 5, 7].
+- **Who could enforce what:** the agreement named outside enforcers only for some promises: the foundation for a one-time gift of at least $5M (s. 6.15), and two named individuals for no material job cuts for two years, Vermont operations for five years, the livable wage, CEO pay tied to social performance (s. 6.16) and a $5M social venture fund (s. 6.18). The board's own rights in s. 6.14 had no such outside enforcer [1].
 - **Fit:** gap. FD-01: one of the options considered (investor agreements that lock in principles).
 
 ### BNJ-09: Contract unenforceable in practice
 
-- **What the company does:** in August 2026 Judge Castel ruled that the independent directors may sue only under the board-composition clause, not over censorship or the CEO's removal. The Foundation "may not sue" over its allocation [2, 3].
+- **What the company does:** in August 2026 the court ruled that the independent directors may sue under the board-composition clause, not over censorship or the CEO's removal under the 2000 agreement; their claims under the 2022 settlement agreement and its amendment also survive (BNJ-16). The Foundation "may not sue" over its allocation; all claims brought for the company were dismissed. Seven of ten counts were dismissed [2, 3].
 - **Fit:** gap. The strongest evidence that a contract with the owner is weak protection.
 - **Lesson for FD-01:** protections need a party with standing and its own resources, such as a foundation that owns shares or a golden share, not only rights under the buyer's contract.
 
 ### BNJ-10: Parent remakes the board
 
 - **What the company does:**
-  - **December 2025:** new term limits and a rule requiring certification of the parent's code of conduct made three directors ineligible.
-  - **January 2026:** the rest were treated as having left after they refused to certify.
+  - **December 2025:** new bylaws set a nine-year term limit and required directors to certify the parent's code of conduct; the chair was removed as ineligible and two directors left under the term limit.
+  - **January 2026:** the rest were treated as having left on 1 January after they did not certify.
+  - **August 2026:** the parent's side appointed three new independent directors; the former directors are suing to block the appointments [13, 61].
   - **CEO:** replaced in 2025.
   - **Speech:** the board alleges statements on Gaza, refugees and a post naming Trump were blocked.
 
@@ -118,7 +122,7 @@ Count: 1 match, 2 partial, 8 gap, 3 differs.
 
 ### BNJ-11: Foundation defunded
 
-- **What the company does:** funding was withheld after an audit in 2025. The Foundation was evicted and plans to suspend operations on 31 December 2026; TMICC says it remains committed to funding a foundation [18, 19].
+- **What the company does:** funding was cut from April 2025, pending an audit whose report went to the parent and was not shared with the Foundation. The Foundation was evicted and plans to suspend operations on 31 December 2026; TMICC says it remains committed to funding a foundation [18, 19]. The company paid over $68M to the Foundation in 2000–2024 (court record) [3, 61].
 - **Fit:** differs. A purpose share that depends on the owner's goodwill.
 
 ### BNJ-12: Customer input in flavours
@@ -130,6 +134,16 @@ Count: 1 match, 2 partial, 8 gap, 3 differs.
 
 - **What the company does:** none found; investors asked for separate Ben & Jerry's figures [26].
 - **Fit:** differs from principle 3.
+
+### BNJ-15: Control through shares before the sale
+
+- **What the company does:** while independent and listed (1984–2000), the founders held most of the ten-vote Class B shares (61.6 %, 11.4 % and 3.8 % for the two founders and their lawyer in April 2000), and the Foundation held all of a preferred share class with a vote on any business combination. A Vermont law of 1998 let directors weigh "the continued independence of the corporation". In 2000 the board still accepted a higher cash bid; whether it had to is disputed (an academic analysis argues the board overestimated its legal risk) [62, 63].
+- **Fit:** gap. FD-01: ownership-based protection worked while it was held, but it was not built to survive a sale. The foundation's veto became a contract claim the court later held it could not enforce.
+
+### BNJ-16: Settlement terms as the enforceable part
+
+- **What the company does:** the settlement of the 2022 dispute (effective 13 December 2022), signed by the mission board, committed the parent to respect the board's primary responsibility, to two $2.5M payments to groups the chair picks, and to source at least 50 % of the North American non-dairy base mix from a Palestinian fair-trade supplier for ten years; a 2023 amendment added $2M a year to that supplier for at least ten years. In 2026 these were among the claims the court let proceed [3, 60].
+- **Fit:** gap. FD-01: a contract the mission body itself signed, with concrete payments and an outside supplier as beneficiary, proved stronger than general rights under the original sale contract.
 
 ### BNJ-14: Employee-ownership carve-out explored
 
@@ -156,6 +170,7 @@ Count: 1 match, 2 partial, 8 gap, 3 differs.
 ## 7. Updates
 
 - 2026-11-23: comparison written.
+- 2026-11-24: facts checked against primary sources (merger agreement, settlement agreement, court filings): BNJ-08 to BNJ-11 corrected (December 2025 sequence; the ruling also keeps the settlement claims; funding cut before the audit ended); BNJ-15 and BNJ-16 added. Sources 60–66 added.
 
 ## Sources
 
@@ -219,3 +234,10 @@ Source list from the underlying company study. Numbering matches the brackets ab
 | 56 | Bakery&Snacks | TMICC Q3 trading update | 2026-10-29 | press | https://www.bakeryandsnacks.com/Article/2026/10/29/the-magnum-ice-cream-company-q3-trading-update |
 | 57 | Ben & Jerry's | We're hiring production workers | 2021-10 | primary | https://www.benjerry.com/whats-new/2021/10/production-worker |
 | 59 | Vermont Business Magazine | Magnum H1 2026 report | 2026-08-02 | press | https://vermontbiz.com/news/2026/august/02/ben-jerrys-owner-magnum-releases-h1-2026-financial-report |
+| 60 | Exhibit to the amended complaint, ECF 32-2, S.D.N.Y. 1:24-cv-08641 | Confidential Settlement and Release Agreement, effective 2022-12-13 (read 2026-11-24) | filed 2025-01-27 | court (contract) | https://storage.courtlistener.com/recap/gov.uscourts.nysd.631633/gov.uscourts.nysd.631633.32.2.pdf |
+| 61 | Class I directors (court filing) | Fifth Amended Complaint, ECF 209, S.D.N.Y. 1:24-cv-08641 (party allegations; read 2026-11-24) | 2026-11-04 | court (party) | https://storage.courtlistener.com/recap/gov.uscourts.nysd.631633/gov.uscourts.nysd.631633.209.0.pdf |
+| 62 | Ben & Jerry's Homemade (SEC) | Schedule 14D-9 on the Unilever tender offer (read 2026-11-24) | 2000-04-18 | primary | https://www.sec.gov/Archives/edgar/data/0000768384/000091205700018635/0000912057-00-018635.txt |
+| 63 | Antony Page, Robert A. Katz, Vermont Law Review 35:211 | Freezing out Ben & Jerry: corporate law and the sale of a social enterprise icon (read 2026-11-24) | 2010 | academic | https://lawreview.vermontlaw.edu/wp-content/uploads/2012/02/20-Page-Katz-BJ-Book-1-Vol.-35.pdf |
+| 64 | Class I directors (court filing) | Letter on the case-management schedule, ECF 222 (read 2026-11-24) | 2026-11-19 | court (party) | https://storage.courtlistener.com/recap/gov.uscourts.nysd.631633/gov.uscourts.nysd.631633.222.0.pdf |
+| 65 | TMICC, HoldCo (court filing) | Status report, ECF 207 (read 2026-11-24) | 2026-11-02 | court (party) | https://storage.courtlistener.com/recap/gov.uscourts.nysd.631633/gov.uscourts.nysd.631633.207.0.pdf |
+| 66 | Reuters (via Business Insurance) | Ousted Ben & Jerry's board chair sues Unilever, alleging defamation (read 2026-11-24) | 2026-03-26 | wire | https://www.businessinsurance.com/ousted-ben-jerrys-board-chair-sues-unilever-alleging-defamation/ |

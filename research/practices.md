@@ -220,10 +220,12 @@ Sort order: area, then company (order of the company list in `README.md`), then 
 | HAI-11 | Haier | Collective ownership with "no shareholders", Staff Assembly elects the board; large related-party flows | OW, TR | gap | FD-01 | park? | park (FD-01) |
 | BNJ-01 | Ben & Jerry's | Vermont-only community share offering (1984) | OW, CO | gap | FD-01 | adopt? | adopt (FD-01) |
 | BNJ-08 | Ben & Jerry's | Mission protected by the sale contract: independent, self-perpetuating board | OW | gap | FD-01 | reject? | reject (FD-01) |
-| BNJ-09 | Ben & Jerry's | Contract largely unenforceable: board may sue only over board composition; foundation can't sue | OW | gap | FD-01 | note only | note only (FD-01) |
+| BNJ-09 | Ben & Jerry's | Contract largely unenforceable: board may sue only over board composition (and a later settlement); foundation can't sue | OW | gap | FD-01 | note only | note only (FD-01) |
 | BNJ-10 | Ben & Jerry's | Parent remakes the board (eligibility rules, removals), replaces the CEO; censorship alleged | OW, TR | differs | FD-01 | reject? | reject (FD-01) |
 | BNJ-11 | Ben & Jerry's | Foundation funding withheld; foundation to suspend operations | OW, EN | differs | FD-01 | reject? | reject (FD-01) |
 | BNJ-14 | Ben & Jerry's | Founders explore an employee-ownership carve-out | OW | gap | FD-01 | park? | park (FD-01) |
+| BNJ-15 | Ben & Jerry's | Before the sale: founders' high-vote shares and a foundation-held share class with a takeover veto | OW | gap | FD-01 | adopt? | to decide |
+| BNJ-16 | Ben & Jerry's | Settlement terms signed by the mission board (payments, fair-trade sourcing) stay enforceable where the sale contract's board rights did not | OW, SU | gap | FD-01 | adapt? | to decide |
 | FAI-12 | Fairphone | Funding from impact investors, crowdfunding and staff; 12 % secured shareholder loans | OW | gap | FD-01 | park? | park (FD-01) |
 | TOY-12 | Toyota | Long-term philosophy over short-term results | LT | gap | FD-07 | adopt? | adopt (FD-07) |
 | TOY-13 | Toyota | Growth limited by people development | LT | gap | FD-07 | adopt? | adopt (FD-07) |
