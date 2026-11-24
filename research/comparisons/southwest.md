@@ -68,7 +68,7 @@ Count: 1 match, 4 partial, 6 gap, 1 differs.
 
 ### SWA-06: Activist settlement
 
-- **What the company does:** Elliott disclosed $1.9B (about 11 %) in June 2024. The settlement added six directors, a new chair, and Kelly's early exit. Elliott sold below 5 % by April 2026 after the share price rose; the strategy stayed [S6, S8, S17, S19].
+- **What the company does:** Elliott disclosed $1.9B (about 11 %) in June 2024. The settlement added five Elliott nominees and one further new director, a new chair, and Kelly's early exit. By April 2026 Elliott's directly held shares were below 5 %, but its economic exposure was about 8.5 %; three Elliott directors remained; the strategy stayed (corrected 2026-11-24) [S6, S8, S17, S19].
 - **Fit:** gap. The clearest FD-01 evidence: board control, not a majority, was enough to reverse decades of principles.
 
 ### SWA-07: Research instead of input
